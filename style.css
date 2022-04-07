@@ -10,21 +10,26 @@
 
 #paragraph {
     margin-left: 20px;
-    background-color: black;
+    background-color: rgb(31, 31, 34);
     color: white;
     padding: 30px;
 }
 
 .header{
-    background-color: black;
-    color: white;
+    background-color:;
+    color: rgb(57, 57, 204);
     padding: 20px;
     text-align: center;
 }
 
 .instructions{
-    background-color: red;
-    color: white;
+    background-color:;
+    color: rgb(57, 57, 204);
     padding: 20px;
     text-align: center;
+}
+
+.everything{
+    background-color: ;
+
 }
